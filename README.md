@@ -68,5 +68,6 @@
  * Project -> New project -> Create project
  * ![Project 생성1](https://user-images.githubusercontent.com/32090903/77140347-a7cf5480-6abc-11ea-8c1b-d35d5215123a.png)
  * ![Project 생성2](https://user-images.githubusercontent.com/32090903/77140499-29bf7d80-6abd-11ea-8b68-e579d4df218e.png)
+ * ![Project 생성3](https://user-images.githubusercontent.com/32090903/77140767-fc270400-6abd-11ea-8bc2-3e09d618d75e.png)
 
 
