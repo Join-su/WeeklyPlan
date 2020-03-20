@@ -35,7 +35,7 @@
 #### < 작성 예시 >
 1) 주간계획
   * 제목 : 홍길동 200101~200106
-    * 내용 : (양식에 따라 작성), 마일스톤과 라벨 Check; 라벨은 모아보기를 위해서 사용
+    * 내용 : (양식에 따라 작성), project과 labels Check
 * ![주간계획 작성](https://user-images.githubusercontent.com/32090903/77140062-ac473d80-6abb-11ea-84a0-79dbda8266cd.png)
 
 
