@@ -62,9 +62,11 @@
 * 주간 계획을 모두 완료하지 못하는 경우 상황을 설명하는 Comment를 남긴 후 해당 이슈를 Close 합니다. 아래는 예시입니다.
   * "구현 작업을 계획하였으나 문서 작업에 투입되며 완료하지 못했음. 다음 주차 계획에 반영하여 마무리하겠음. 따라서 이 이슈를 close 합니다"
 
-## Ref. 마일스톤 생성/Close
+## Ref. Project 생성/Close
  * 누구나 쉽게 생성하고 Close시킬수 있기 때문에 주간계획을 먼저 올리는 사람이 시행합니다
- 
- * Issue -> Milestones -> New milestorne/Close
-![image](https://user-images.githubusercontent.com/32090903/77047754-a2b0cd80-6a08-11ea-9ab1-0212580e08d2.png)
-![image](https://user-images.githubusercontent.com/32090903/77047891-df7cc480-6a08-11ea-9b8f-399c7a8042e5.png)
+ * 제목 : 월 주차 계획
+ * Project -> New project -> Create project
+ * ![Project 생성1](https://user-images.githubusercontent.com/32090903/77140347-a7cf5480-6abc-11ea-8c1b-d35d5215123a.png)
+ * ![Project 생성2](https://user-images.githubusercontent.com/32090903/77140499-29bf7d80-6abd-11ea-8b68-e579d4df218e.png)
+
+
